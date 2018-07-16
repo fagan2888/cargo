@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images900px</folder>
+	<filename>Selection_053.png</filename>
+	<path>/home/xf/git/cargo/images900px/Selection_053.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cargo_g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>328</ymin>
+			<xmax>763</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>
