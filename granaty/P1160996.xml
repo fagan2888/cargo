@@ -1,0 +1,26 @@
+<annotation>
+	<folder>granaty</folder>
+	<filename>P1160996.png</filename>
+	<path>/home/xf/git/cargo/granaty/P1160996.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cargo_g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>305</ymin>
+			<xmax>723</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>
